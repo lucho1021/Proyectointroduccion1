@@ -1,0 +1,18 @@
+h1 {
+    font-weight: bold;   
+}
+
+img {
+    width: 1935px;
+    height: 635px;
+}
+
+footer {
+    background-color: gray;
+    color:white;
+    text-align: center;
+}
+
+p {
+    font-size: 26px;
+}

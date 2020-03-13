@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+h1 {
+    font-weight: bold; 
+    color: blue;  
+}
+h2 {
+    font-weight: bold; 
+    color:blue;
+}
+img {
+    width: 1935px;
+    height: 635px;
+}
+p {
+    font-size: 25px;
+    color: #33F0FF;
+}
+body {
+    Font-style:italic;
+}
+footer {
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+p {
+
+}

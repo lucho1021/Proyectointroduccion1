@@ -1,0 +1,29 @@
+
+h1 {
+    color: green;
+    Font-weight: bold;
+}
+
+img {
+    width: 1935px;
+    height: 635px;
+}
+
+h2 {
+    color: green;
+    Font-weight: bold;
+}
+
+body {
+    Font-style:italic;
+}
+
+p {
+    font-size: 26px;
+}
+
+footer {
+    background-color: gray;
+    color:whitesmoke;
+    text-align: center;
+}
